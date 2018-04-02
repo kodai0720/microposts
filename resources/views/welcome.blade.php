@@ -16,6 +16,7 @@
                     @include('microposts.microposts', ['microposts' => $microposts])
                 @endif
             </div>
+            
         </div>
     @else
         <div class="center jumbotron">
